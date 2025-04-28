@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/mcp-mirror-cteaminfo-mcp-superiorapis-badge.jpg)](https://mseep.ai/app/mcp-mirror-cteaminfo-mcp-superiorapis)
+
 # SuperiorAPIs MCP Server Tool
 
 ## 📖 Description
